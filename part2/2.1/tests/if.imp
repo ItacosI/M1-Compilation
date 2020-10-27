@@ -1,0 +1,13 @@
+main {
+  if (true) {
+    if (false) {
+      6;
+    } else {
+      7;
+    }
+    7;
+  } else {
+    8;
+  }
+  print_int((6*7));
+}
